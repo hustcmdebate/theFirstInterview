@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: "第一次面试"
 show_downloads: false
+is_project_page : false
